@@ -7,7 +7,7 @@ void name(string name)
 {
     cout << "What is your name" << endl;
     getline(cin, name);
-    cout << "Hello " + name + "wlecome to my first c++ app!" << endl;
+    cout << "Hello " + name + " welcome to my first c++ app!" << endl;
 }
 
 int main()
